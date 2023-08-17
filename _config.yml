@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Hanju Jun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bi.jpg"
+  avatar           : "/assets/ME.jpg"
   bio              : "한주의 코딩 공부방"
   location         : "Seoul, Korea"
   email            :
